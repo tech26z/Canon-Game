@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scripts/new Scene.unity
+- path: Assets/RayTest.unity
   isLoaded: 1
   isActive: 1
